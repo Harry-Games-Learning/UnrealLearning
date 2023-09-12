@@ -1,9 +1,13 @@
 Binaries
+Build/*
+!Build/*.txt
 DerivedDataCache
 Intermediate
+Platforms
 Saved
 .vscode
 .vs
+.vsconfig
 *.VC.db
 *.opensdf
 *.opendb
